@@ -21,25 +21,25 @@ One seems to be stronger than the other three, we started combat after they look
 Combat log:
 
 [[Joe]] and [[Travis]] do nothing on turn one
-I shoot on the stronger one in the face with a crossbow
+[[Vesyl]]  shoot on the stronger one in the face with a crossbow
 The Zombies run up on us 
 [[Travis]] attempts to hit and misses his first shot and jumps away and avoided the opportunity attack
 [[Joe]] Attacks and lands a hit on the strong zombie
-Dropped the crossbow and tried to hit with a spear and missed I moved back and took an opportunity attack - Con save for locked up joints
+Dropped the crossbow and tried to hit with a spear and missed [[Vesyl]]  moved back and took an opportunity attack - Con save for locked up joints
 Strong Zombies try to smack [[Joe]] and misses
 One zombie tries to hit the god and the rat kills it
 One zombie hit me and deals 5 damage
 [[Travis]] attacks the zombie that hit me
 [[Joe]] Kills the Strong zombie with one last hit
-I hit the zombie that hit me for 4
+[[Vesyl]]  hit the zombie that hit me for 4
 Zombie 2 tried to it [[Joe]] and misses
 Zombie 3 hit me for 4 damage
 [[Travis]] hit Zombie 3
 [[Joe]] hit Zombie 3
-I Cure Wounds myself for 6
+[[Vesyl]]  Cure Wounds myself for 6
 [[Travis]] Gutted Zombie 3
 [[Joe]] Killed Zombie 2
-I missed Zombie 4
+[[Vesyl]]  missed Zombie 4
 Zombie fails to hit [[Joe]]
 [[Travis]] Kills Zombie 4
 
@@ -61,7 +61,7 @@ The soul of the dad was destroyed and would need a wish to bring him back
 
 [[Travis]] starts harvesting ghoul parts
 
-The servants have been wondering about the [[Magister]]s disappearance and they catch him up on the locked up
+The servants have been wondering about the [[Magister]]s disappearance, and they catch him up on the locked up
 
 The servant turns and moves his arms and opens a hallway to move us into the base
 
@@ -77,4 +77,4 @@ We long rest and after that the [[Magister]] comes back with a floating sword be
 
 We follow him out to a room with a giant throne that is just a pedestal with a stand next to it with a circular object with wings and chains on it. there are steps with water flowing into it and treasure on either side of it 
 
-He is giving us the floating [amulet](https://www.dndbeyond.com/magic-items/4778-talisman-of-pure-good) with rings and chains on it, [[Travis]] goes to pick it up and grabs it and the wings unfold like seraphim wings and has a huge ruby in the center, As [[Travis]] touched it he took a bunch of damage and was knocked out, I healed him for 6 as [[Magister]] said he was not worth to touch the object, [[Travis]] drops the item back on the pedestal. I touched the Talisman and was knocked unconscious and was brought back by [[Travis]] for 4 life. [[Joe]] grabs it and does not take any damage. 
+He is giving us the floating [amulet](https://www.dndbeyond.com/magic-items/4778-talisman-of-pure-good) with rings and chains on it, [[Travis]] goes to pick it up and grabs it and the wings unfold like seraphim wings and has a huge ruby in the center, As [[Travis]] touched it he took a bunch of damage and was knocked out, [[Vesyl]]  healed him for 6 as [[Magister]] said he was not worth to touch the object, [[Travis]] drops the item back on the pedestal. [[Vesyl]]  touched the Talisman and was knocked unconscious and was brought back by [[Travis]] for 4 life. [[Joe]] grabs it and does not take any damage. 

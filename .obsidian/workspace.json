@@ -36,15 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions Raw/Session 02.md",
+                "file": "Sessions Raw/Session 01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions Raw/Session 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions Raw/Session 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions Raw/Session 02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,9 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c67a5d3bbb242ee",
+  "active": "33478d289db90134",
   "lastOpenFiles": [
     "Sessions Raw/Session 01.md",
+    "Sessions Raw/Session 02.md",
+    "Sessions Raw/Session 03.md",
+    "PCS/Vesyl.md",
     "Magic Items/Fake Bag of Holding.md",
     "Magic Items/Ring of Regeneration.md",
     "Magic Items/Spell Scroll - Storm Sphere.md",
