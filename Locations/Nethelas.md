@@ -1,0 +1,8 @@
+News of a floating castle appearing out of the shadow of a flash of light that illuminated the entire city. Shortly after a Ghoul army besieged the city. It's defense rising to the threat were accompanied by a burst of a miracle. Symbols of ilmater appeared in the sky, opening gates that poured out angels. They stayed for a shrot amount of time aiding in the battle while the castle floated away. After the castle was gone from sight the angels left, taking their fallen with them. There is a rumor that one of the Dao wizards captured one of the angels. 
+
+Now a lingering, partially disbanded, army of ghouls and other undead hold outside the city anywhere from half a day to 2 days out.  Most of the mining efforts still continue though at a slower rate as its imperative to keep the slaves in check at a time like this.
+
+
+Nethelas is ran directly under The Great Khan Kabril Ali al-Sara al-Zalazil of the Dao. Either he or one of is appointed directly lead the city. It's rules with a very militant iron fist where everyone who isn't a dao genie is a second citizen.
+
+There are separate laws for dao and for other races of Nethelas. Majority of the city's inhabitants are slaves or soulless warforged that either provide entertainment to the dao or work in the mines of the Salbareen Peaks. The dao handle everything here, authorities, treasury, house, and trade. Their main export are gems and precious metals. Their main imports, slaves.

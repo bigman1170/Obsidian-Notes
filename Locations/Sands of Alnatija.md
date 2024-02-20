@@ -1,0 +1,1 @@
+**Sands of Alnatija**, or Sands of Outcome. This represents all the sands surrounding the Glowing Wastes. It is the said to be the repercussions of dying gods who fought in the center of Zeymun. Caravans of traders, desert bandits, and threats under the sands can be found here.

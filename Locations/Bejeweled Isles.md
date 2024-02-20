@@ -1,0 +1,1 @@
+**Bejeweled Isles**, these isles represent luxury and paradise. Each owned by the main 3 houses of royalty that take turns ruling over Opal. Many events and gatherings are held here in which case most of the upper nobility and every 7th year when a new Sultan is appointed all of Opal is invited to the Island of the new reigning house.

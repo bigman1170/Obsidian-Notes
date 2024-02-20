@@ -1,0 +1,1 @@
+**Alhitam Landing**, or Debris Landing are a string of 3 islands below the Bejeweled Isles. These islands did not exist on maps predating the cataclysm and are rumored to be chunks of land scattered from the super explosion that took place in the Glowing Waste. One island harbors a large strip of jungle while the others are desolate rocks.

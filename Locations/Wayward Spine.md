@@ -1,0 +1,1 @@
+**Wayward Spine**, much like the Shifting Dunes neighboring it these mountains slowly but constantly shift and change, opening and closing chasms it is more dangerous. Without the florescent sands of the dunes however. Making it easier to travel at night.

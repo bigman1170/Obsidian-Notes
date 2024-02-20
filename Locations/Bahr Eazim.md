@@ -1,0 +1,1 @@
+**Bahr Eazim**, Is simply the Great Sea. In areas near Opal and around the Bejeweled Isles the navy persists and protects it. Many fishing vessels and merchant routes are seen here both in air and sea.

@@ -1,0 +1,1 @@
+**Kaltorum Oasis**, the beauty of the southern lands of Zeymun. Travelers say it is another great wonder of the desert. Holding exotic fruits and creatures. There is said to be a ruins of an ancient civilization that still harbors few of its people. Though they do not take to visitors to kindly. Specially ones that do not bear gifts for their "Snake god"

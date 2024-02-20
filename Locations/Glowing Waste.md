@@ -1,0 +1,1 @@
+A area so thick with a magical radiation emits from the soil that even traveling over it you would have to be miles in the sky to avoid. No living thing enters here or comes from here. Traders have said that there is at least a days travel where symptoms become noticeable and in that time you should turn back for you will more than likely die on the second day if not.

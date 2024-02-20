@@ -1,0 +1,1 @@
+is a halfbreed of (F) celestial and (M) djin - his father is a higher form of a angel wing snake - against the rules of the celestials his father married his mother

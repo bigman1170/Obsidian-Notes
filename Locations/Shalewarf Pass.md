@@ -1,0 +1,1 @@
+**Shalewarf Pass**, is the main land route to the Shalewarf Kingdom that resides next to the Zeymun Empire. They currently are at an alliance and trade openly between each other. There is a tax for traversing into Shalewarf and papers are needed.

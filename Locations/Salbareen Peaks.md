@@ -1,0 +1,1 @@
+**Salbareen Peaks**, a mountain cove that surrounrd Nethelas is well guarded by outposts and sentries of the Muharibi Almaeadin, the forever vigilant. It is unlawful to tread this area and capture, slavery, or death are likely. It is home to many mining facilities and caverns.

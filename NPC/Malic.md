@@ -1,0 +1,1 @@
+Nzhet'tia was killed and taken over by Malic
