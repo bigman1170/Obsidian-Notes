@@ -10,9 +10,11 @@
           {
             "id": "33478d289db90134",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -157,6 +159,13 @@
       "git-integration:Delete .git folder": false
     }
   },
-  "active": "ad1a72b03190e8be",
-  "lastOpenFiles": []
+  "active": "33478d289db90134",
+  "lastOpenFiles": [
+    "Magic Items/Ring of Regeneration.md",
+    "Magic Items/Spell Scroll - Storm Sphere.md",
+    "Magic Items/Fake Bag of Holding.md",
+    "Magic Items/Staff of Swarming Insects.md",
+    "Magic Items/Talisman of Pure Good.md",
+    "Magic Items.md"
+  ]
 }
