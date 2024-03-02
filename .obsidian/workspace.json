@@ -16,58 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d25120b6d532bdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spells.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "410b67a9d4531715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spells/Minor Illusion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11bbe61831f4e664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nobile Family/Wind Dune of Aaqa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "679cfd1336fe73b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nobile Family/Wind Dune of Aaqa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -211,6 +159,7 @@
   "active": "33478d289db90134",
   "lastOpenFiles": [
     "Spells.md",
+    "Magic Items.md",
     "Spells/Minor Illusion.md",
     "Spells",
     "Sessions Raw/Session 04.md",
@@ -236,7 +185,6 @@
     "PCS/Vesyl.md",
     "Sessions Raw/Session 01.md",
     "Magic Items/Fake Bag of Holding.md",
-    "Magic Items/Ring of Regeneration.md",
-    "Magic Items/Spell Scroll - Storm Sphere.md"
+    "Magic Items/Ring of Regeneration.md"
   ]
 }
