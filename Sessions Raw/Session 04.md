@@ -42,4 +42,10 @@ Efreeti shots fire at [[Vesyl]] for 18 Damage
 [[Vesyl]] Misses Thorn whip
 [[Brian]] Misses Great sword
 [[Joe]] shoots arrow for 23 Damage
+[[Magister]] casts a spell and it is a power word spell
+[[Jackson]] casts channel divinity before [[Brian]] turn
+Efreete Misses both attacks on [[Magister]] 
+[[Vesyl]] Heals for 8
+[[Brian]] misses
+[[joe]] misses
 [[Magister]] 
