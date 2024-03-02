@@ -29,14 +29,17 @@ He wants us to be his hype men, [[Joe]] wanted to speak privately, [[Magister]] 
 Efreeti tries to teleport out (possibly)
 [[Vesyl]] Staff of swarming for 25 Damage
 [[Brian]] Cast bless on Himself [[Joe]] [[Magister]]
-[[Joe]] shots arrow for 15 Damage
+[[Joe]] shoots arrow for 15 Damage
 [[Magister]] Tries to trap in the iron flask Fails
 [[Jackson]] ?
 Efreeti attempts to cast fire around him but is counterspelled by [[Magister]] and leaves the space
 [[Vesyl]] Thorn whip for 1 Damage and pulled 10 ft closer
 [[Brian]] Misses
-[[Joe]] Shots arrow for 20
+[[Joe]] Shoots arrow for 20
 [[Magister]] Grabs the handle of the great sword and hits leaving a sphere around him
 [[Jackson]] misses again
 Efreeti shots fire at [[Vesyl]] for 18 Damage
 [[Vesyl]] Misses Thorn whip
+[[Brian]] Misses Great sword
+[[Joe]] shoots arrow for 23 Damage
+[[Magister]] 
