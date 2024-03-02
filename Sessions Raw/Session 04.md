@@ -31,9 +31,12 @@ Efreeti tries to teleport out (possibly)
 [[Brian]] Cast bless on Himself [[Joe]] [[Magister]]
 [[Joe]] shots arrow for 15 Damage
 [[Magister]] Tries to trap in the iron flask Fails
-[[Jackson]] 
+[[Jackson]] ?
 Efreeti attempts to cast fire around him but is counterspelled by [[Magister]] and leaves the space
 [[Vesyl]] Thorn whip for 1 Damage and pulled 10 ft closer
 [[Brian]] Misses
 [[Joe]] Shots arrow for 20
-[[Magister]] Grabs the handle of the great sword and hits for 
+[[Magister]] Grabs the handle of the great sword and hits leaving a sphere around him
+[[Jackson]] misses again
+Efreeti shots fire at [[Vesyl]] for 18 Damage
+[[Vesyl]] 
