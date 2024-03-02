@@ -14,7 +14,7 @@ Elven long sword [TBT] Sentient elf blood - Joe
 [Demon Armor] (Red Dragon) - Brian
 	Cursed for disadvantage on everything on red dragon, Can be removed
 
-[Sword of Answering] - Brian
+[Sword of Answering] -Last Quip- Brian
 
 [Driftglobe], [quaal, feather token] - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, [Nolzur's Marvelous Pigments] 2 Pots
 
