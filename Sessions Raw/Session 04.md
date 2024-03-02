@@ -21,3 +21,5 @@ Elven long sword [TBT] Sentient elf blood - Joe
 These items are from [Magister]'s dad's hoard
 
 The reason he does not say his name is that if he gives it to us, the gods can pull him to them with the spell [Gate]
+
+[Magister] has a Decree to rule over opal, and he wants us to go to the palace to announce this
