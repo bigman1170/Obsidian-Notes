@@ -12,11 +12,11 @@ Elven long sword [TBT] Sentient elf blood
 [Oathbow]
 
 [Demon Armor] (Red Dragon)
-	Cursed for disadvantage on everything on red dragon
+	Cursed for disadvantage on everything on red dragon, Can be removed
 
 [Sword of Answering]
 
-Driftglobe, quaal, feather token - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, 
+[Driftglobe], [quaal, feather token] - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, [Nolzur's Marvelous Pigments] 2 Pots
 
 These items are from [Magister]'s dad's hoard
 
