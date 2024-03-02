@@ -39,4 +39,4 @@ Efreeti attempts to cast fire around him but is counterspelled by [[Magister]] a
 [[Magister]] Grabs the handle of the great sword and hits leaving a sphere around him
 [[Jackson]] misses again
 Efreeti shots fire at [[Vesyl]] for 18 Damage
-[[Vesyl]] 
+[[Vesyl]] Misses Thorn whip
