@@ -15,3 +15,9 @@ Elven long sword [TBT] Sentient elf blood
 	Cursed for disadvantage on everything on red dragon
 
 [Sword of Answering]
+
+Driftglobe, quaal, feather token - Stops a vessel as though a anchor and does not undo its effect for 24hrs,  
+
+These items are from [Magister]'s dad's hoard
+
+The reason he does not say his name is that if he gives it to us, the gods can pull him to them with the spell [Gate]
