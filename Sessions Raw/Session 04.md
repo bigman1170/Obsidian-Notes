@@ -9,7 +9,7 @@ Elven long sword [TBT] Sentient elf blood
 	Wis 10
 	Cha 12
 	
-oath bow
+[Oathbow]
 
 [Demon Armor] (Red Dragon)
 	Cursed for disadvantage on everything on red dragon
