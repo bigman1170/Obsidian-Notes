@@ -14,3 +14,4 @@ Elven long sword [TBT] Sentient elf blood
 [Demon Armor] (Red Dragon)
 	Cursed for disadvantage on everything on red dragon
 
+[Sword of Answering]
