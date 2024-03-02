@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "588f1320c9d7e929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions Raw/Session 04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions Raw/Session 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions Raw/Session 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions Raw/Session 04.md"
+              }
             }
           },
           {
@@ -156,12 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33478d289db90134",
+  "active": "588f1320c9d7e929",
   "lastOpenFiles": [
-    "Sessions Raw/Session 01.md",
-    "Sessions Raw/Session 02.md",
     "Sessions Raw/Session 03.md",
     "PCS/Vesyl.md",
+    "Sessions Raw/Session 01.md",
+    "Sessions Raw/Session 02.md",
     "Magic Items/Fake Bag of Holding.md",
     "Magic Items/Ring of Regeneration.md",
     "Magic Items/Spell Scroll - Storm Sphere.md",
