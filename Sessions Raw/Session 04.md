@@ -16,7 +16,7 @@ Elven long sword [TBT] Sentient elf blood
 
 [Sword of Answering]
 
-Driftglobe, quaal, feather token - Stops a vessel as though a anchor and does not undo its effect for 24hrs,  Immovable rod, 
+Driftglobe, quaal, feather token - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, 
 
 These items are from [Magister]'s dad's hoard
 
