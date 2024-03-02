@@ -55,3 +55,6 @@ He wants us to be his hype men, [[Joe]] wanted to speak privately, [[Magister]] 
 	[[Brian]] Hits for 36 Damage killing the Efreete
 
 People stare into disbelief as one turned into a rakshasa and the other was killed
+
+
+We gained 4325 EXP
