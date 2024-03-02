@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:locations",
@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 12529601
       }
+    },
+    {
+      "query": "path:Spells  ",
+      "color": {
+        "a": 1,
+        "rgb": 9676759
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 0.960810810810811,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.520352250489237,
-  "repelStrength": 14.0391389432485,
+  "centerStrength": 0.351272015655577,
+  "repelStrength": 10.2818003913894,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.0881422643088727,
-  "close": false
+  "linkDistance": 104,
+  "scale": 0.553605310168267,
+  "close": true
 }
