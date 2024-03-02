@@ -31,12 +31,25 @@
             }
           },
           {
-            "id": "a50285dd1e22a041",
+            "id": "11bbe61831f4e664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions Raw/Session 03.md",
+                "file": "Nobile Family/Wind Dune of Aaqa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "679cfd1336fe73b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nobile Family/Wind Dune of Aaqa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -184,10 +197,13 @@
   },
   "active": "33478d289db90134",
   "lastOpenFiles": [
+    "Nobile Family/Wind Dune of Aaqa.md",
+    "Sessions Raw/Session 04.md",
+    "NPC/Magister.md",
+    "Magic Items/Nolzur's Marvelous Pigments.md",
+    "Nobile Family",
     "Sessions Raw/Session 03.md",
     "Sessions Raw/Session 02.md",
-    "Sessions Raw/Session 04.md",
-    "Magic Items/Nolzur's Marvelous Pigments.md",
     "Magic Items/quaal, feather token.md",
     "Magic Items/Driftglobe.md",
     "Magic Items/Sword of Answering.md",
@@ -199,7 +215,6 @@
     "Jackson.md",
     "Campain.md",
     "Magic Items/Talisman of Pure Good.md",
-    "NPC/Magister.md",
     "NPC/Malic.md",
     "PCS/Vesyl.md",
     "Sessions Raw/Session 01.md",
