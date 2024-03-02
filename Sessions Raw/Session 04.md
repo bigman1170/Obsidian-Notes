@@ -10,3 +10,5 @@ Elven long sword [TBT] Sentient elf blood
 	Cha 12
 oath bow
 Minor Property
+Demon Armor (Red Dragon)
+	Cursed 
