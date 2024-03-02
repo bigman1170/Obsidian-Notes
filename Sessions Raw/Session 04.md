@@ -51,4 +51,5 @@ Efreete Misses both attacks on [[Magister]]
 [[Magister]] casts finger of death Hits for 73
 [[Jackson]] Missed
 Efreete Misses
-[[Vesyl]] 
+[[Vesyl]] used the [[Staff of Swarming Insects]] making 3 Giant Spiders and missed every web attempt
+[[Brian]] Hits for 36 Damage killing the Efreete
