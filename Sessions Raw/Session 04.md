@@ -49,4 +49,6 @@ Efreete Misses both attacks on [[Magister]]
 [[Brian]] misses
 [[joe]] misses
 [[Magister]] casts finger of death Hits for 73
-[[Jackson]] 
+[[Jackson]] Missed
+Efreete Misses
+[[Vesyl]] 
