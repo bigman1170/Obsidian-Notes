@@ -12,3 +12,5 @@
 [[Locations]]
 [[PCS]]
 [[Magic Items]]
+[[Spells]]
+
