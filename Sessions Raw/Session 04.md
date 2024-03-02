@@ -22,4 +22,5 @@ These items are from [Magister]'s dad's hoard
 
 The reason he does not say his name is that if he gives it to us, the gods can pull him to them with the spell [Gate]
 
-[Magister] has a Decree to rule over opal, and he wants us to go to the palace to announce this
+[Magister] has a Decree to rule over opal, and he wants us to go to the palace to announce it.
+He wants us to be his hype men, [Joe] wanted to speak privatly, [Magister] set out a feast with the help of Lavren then left. [Joe] brought up the fact that this might not be the best idea since he is a blasphemous existence. We discussed this and we came to the conclusion that we should

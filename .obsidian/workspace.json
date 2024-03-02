@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions Raw/Session 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions Raw/Session 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions Raw/Session 04.md"
+              }
             }
           },
           {
@@ -169,10 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33478d289db90134",
+  "active": "588f1320c9d7e929",
   "lastOpenFiles": [
-    "Sessions Raw/Session 04.md",
     "Sessions Raw/Session 03.md",
+    "NPC/Magister.md",
+    "NPC/Malic.md",
+    "Sessions Raw/Session 04.md",
     "PCS/Vesyl.md",
     "Sessions Raw/Session 01.md",
     "Sessions Raw/Session 02.md",
