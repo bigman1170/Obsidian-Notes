@@ -47,7 +47,7 @@ Combat ended
 
 Picked up my crossbow and bolt
 
-Marble man: Lavren
+Marble man: [[Lavren]]
 
 A guy lifted out of the ground, and he appears to be made of marble and has regal clothes on and has a vest on
 
