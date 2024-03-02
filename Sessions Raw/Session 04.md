@@ -8,7 +8,9 @@ Elven long sword [TBT] Sentient elf blood
 	Int 12
 	Wis 10
 	Cha 12
+	
 oath bow
-Minor Property
-Demon Armor (Red Dragon)
-	Cursed 
+
+[Demon Armor] (Red Dragon)
+	Cursed for disadvantage on everything on red dragon
+
