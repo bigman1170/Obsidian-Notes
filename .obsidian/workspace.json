@@ -18,12 +18,15 @@
             }
           },
           {
-            "id": "09ea407db2e5a098",
+            "id": "b9d8fccff95e889b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Sessions Raw/Session 05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions Raw/Session 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions Raw/Session 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions Raw/Session 05.md"
+              }
             }
           },
           {
@@ -167,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09ea407db2e5a098",
+  "active": "b9d8fccff95e889b",
   "lastOpenFiles": [
-    "Campain.md",
     "Sessions Raw/Session 04.md",
+    "Sessions Raw/Session 03.md",
+    "Campain.md",
     "PCS/Vesyl.md",
     "Magic Items/Demon Armor.md",
     "Magic Items/Driftglobe.md",
@@ -193,7 +201,6 @@
     "Magic Items.md",
     "Spells/Minor Illusion.md",
     "Spells",
-    "Sessions Raw/Session 03.md",
     "Nobile Family/Wind Dune of Aaqa.md",
     "NPC/Magister.md",
     "Nobile Family"
