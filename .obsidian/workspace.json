@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "09ea407db2e5a098",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33478d289db90134",
+  "active": "09ea407db2e5a098",
   "lastOpenFiles": [
     "Campain.md",
     "Sessions Raw/Session 04.md",
