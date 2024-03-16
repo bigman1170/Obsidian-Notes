@@ -17,3 +17,4 @@ Priests come in to attack 2 at each of us 1 Hits [[Vesyl]] for 5, 2 Hit [[Brian]
 The Mob swarm and push us over and grapple all of us except [[Jackson]]
 [[Brian]] Intimidates the crowd with a 10
 [[Some Dude]] misses one attack on [[Brian]] with a 4
+Priests Attack [[Jackson]] for 4, 
