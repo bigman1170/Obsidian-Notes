@@ -28,4 +28,4 @@ The Mob asks them to stop killing them and holding off
 
 We pause combat 
 
-We try talking to the noble and calm the situation down 
+We try talking to the noble and calm the situation down, He lets us stay the night in the Holding Cell if we get him something when we leave this gate to go into the city
