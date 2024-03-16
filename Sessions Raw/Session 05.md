@@ -10,4 +10,6 @@ We went to the closest [[Gate]] that would lead us in the direction of [[Joe]]'s
 as we were going to the closest [[Gate]] there was a sky ship that had been shot down and was heading to the [[Gate]]. As we o through the [[Gate]] we are interrupted by a mob of people, there is a large amount of noise coming from the surroundings, The Flame Guard is protecting the [[Gate]] houses and people jumping over the wall. We are stopped and question by the leader of the Flame Guard, and he wants to know if we are the Reinforcements sent by the nobles. [[Joe]] proclaimed that the Princes are Dead. One of the onlookers who is a dwarvish man and his guards of earth Genasi, He yelled that they handled all the business and then yelled to attack them.
 
 
-[[Cultist]]
+[[Some Dude]] Starts walking his way to us through the croud
+Priests come in to attack 2 at each of us 1 Hits [[Vesyl]] for 5, 2 Hit [[Brian]] for 7, 1 Hit [[Joe]] for 4, 2 Miss [[Jackson]] 
+[[Joe]] 
