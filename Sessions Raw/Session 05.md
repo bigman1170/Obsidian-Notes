@@ -19,3 +19,4 @@ The Mob swarm and push us over and grapple all of us except [[Jackson]]
 [[Some Dude]] misses one attack on [[Brian]] with a 4
 Priests Attack [[Jackson]] for 4, Hits [[Joe]] for 4, None attack [[Brian]], Both Miss on [[Vesyl]]
 [[Joe]] escapes the grapple with 19
+[[Vesyl]] 
