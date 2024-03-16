@@ -28,4 +28,4 @@ The Mob asks them to stop killing them and holding off
 
 We pause combat 
 
-We try talking to the noble 
+We try talking to the noble and calm the situation down 
