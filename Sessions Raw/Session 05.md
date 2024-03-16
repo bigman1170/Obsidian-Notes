@@ -14,9 +14,13 @@ as we were going to the closest [[Gate]] there was a sky ship that had been shot
 Priests come in to attack 2 at each of us 1 Hits [[Vesyl]] for 5, 2 Hit [[Brian]] for 7, [[Brian]] hits him back and kills the guy, 1 Hit [[Joe]] for 4, 2 Miss [[Jackson]] 
 [[Joe]] stabs man with a rapier for 7
 [[Vesyl]] Misses attack
-The Mob swarm and push us over and grapple all of us except [[Jackson]]
+The Mob swarm and push us over and grapple all of us except
+[[Jackson]] Tried to calm the crowd
 [[Brian]] Intimidates the crowd with a 10
 [[Some Dude]] misses one attack on [[Brian]] with a 4
 Priests Attack [[Jackson]] for 4, Hits [[Joe]] for 4, None attack [[Brian]], Both Miss on [[Vesyl]]
 [[Joe]] escapes the grapple with 19
-[[Vesyl]] 
+[[Vesyl]] Shouted that it was the god who killed them, missed a punch
+The Mob asks them to stop killing them and holding off
+[[Jackson]] Persuaded them to calm down and talk
+[[Brian]] 
