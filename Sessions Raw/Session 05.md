@@ -11,5 +11,6 @@ as we were going to the closest [[Gate]] there was a sky ship that had been shot
 
 
 [[Some Dude]] Starts walking his way to us through the croud
-Priests come in to attack 2 at each of us 1 Hits [[Vesyl]] for 5, 2 Hit [[Brian]] for 7, 1 Hit [[Joe]] for 4, 2 Miss [[Jackson]] 
-[[Joe]] 
+Priests come in to attack 2 at each of us 1 Hits [[Vesyl]] for 5, 2 Hit [[Brian]] for 7, [[Brian]] hits him back and kills the guy, 1 Hit [[Joe]] for 4, 2 Miss [[Jackson]] 
+[[Joe]] stabs man with a rapier for 7
+[[Vesyl]] 
