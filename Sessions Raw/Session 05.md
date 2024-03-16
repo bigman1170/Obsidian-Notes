@@ -27,3 +27,5 @@ The Mob asks them to stop killing them and holding off
 [[Noble]] Used a Charm person staff on almost everyone around us
 
 We pause combat 
+
+We try talking to the noble 
