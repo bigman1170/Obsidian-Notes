@@ -24,4 +24,6 @@ Priests Attack [[Jackson]] for 4, Hits [[Joe]] for 4, None attack [[Brian]], Bot
 The Mob asks them to stop killing them and holding off
 [[Jackson]] Persuaded them to calm down and talk
 [[Brian]] Puts his weapon up to try and calm down The Mob, They say the Noble has a rod and will use it
-[[Some Dude]] 
+[[Noble]] Used a Charm person staff on almost everyone around us
+
+We pause combat 
