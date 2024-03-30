@@ -16,22 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "22ab1f776817d933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions Raw/Session 06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,14 +83,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions Raw/Session 06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -114,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions Raw/Session 06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions Raw/Session 06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +156,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "22ab1f776817d933",
+  "active": "ad1a72b03190e8be",
   "lastOpenFiles": [
+    "Sessions Raw/Session 06.md",
+    "NPC/Ysera.md",
+    "NPC/naranjeeb.md",
+    "NPC/Buer.md",
     "Sessions Raw/Session 05.md",
+    "Rids House.md",
+    "Sessions Raw/Session 07.md",
     "Sessions Raw/Session 04.md",
+    "Michal.md",
     "Sessions Raw/Session 03.md",
     "Veysl1/Spells/Minor Illusion.md",
     "Veysl1/Spells",
@@ -197,15 +186,8 @@
     "Veysl1/PCS/Travis.md",
     "Veysl1/PCS/Joe.md",
     "Veysl1/PCS/Jackson.md",
-    "Veysl1/PCS/FlipFlop.md",
-    "Veysl1/PCS/Brian.md",
     "Veysl1/PCS",
-    "Veysl1/PCS.md",
-    "Veysl1/Nobile Family/Wind Dune of Aaqa.md",
     "Veysl1/Nobile Family",
-    "Veysl1/NPC/Nzhet'tia.md",
-    "Veysl1/NPC/Malic.md",
-    "Veysl1/NPC/Lavren.md",
     "Veysl1/NPC",
     "Veysl1/Magic Items",
     "Veysl1/Locations",

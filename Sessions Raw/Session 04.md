@@ -12,7 +12,7 @@ Elven long sword [[TBT]] Sentient elf blood - Joe
 [[Oathbow]] - Joe
 
 [[Demon Armor]] (Red Dragon) - Brian
-	Cursed for disadvantage on everything on red dragon, Can be removed
+	Cursed for disadvantage on everything on red dragon, Cant be removed
 
 [[Sword of Answering]] -Last Quip- Brian
 
