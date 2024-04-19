@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "46fb827b26b2c7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Magic Items/Nolzur's Marvelous Pigments.md"
+              }
             }
           },
           {
@@ -156,7 +174,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ad1a72b03190e8be",
+  "active": "46fb827b26b2c7f4",
   "lastOpenFiles": [
     "Sessions Raw/Session 06.md",
     "NPC/Ysera.md",
