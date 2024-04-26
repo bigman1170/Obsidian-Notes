@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eab568e0efc77c0b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "46fb827b26b2c7f4",
+  "active": "eab568e0efc77c0b",
   "lastOpenFiles": [
     "Sessions Raw/Session 06.md",
     "NPC/Ysera.md",

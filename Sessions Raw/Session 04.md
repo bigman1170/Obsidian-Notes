@@ -1,6 +1,6 @@
 	3/1/24 Session 04
 
-Elven long sword [[TBT]] Sentient elf blood - Joe
+Elven long sword [[TBT Sword]] Sentient elf blood - Joe
 	Scores hit on 19 20
 	Can cast [[Minor Illusion]]
 	You can use an action to call an elf shadow, it appears within 120 ft it uses the Stats of a shadow. 
@@ -11,12 +11,12 @@ Elven long sword [[TBT]] Sentient elf blood - Joe
 	
 [[Oathbow]] - Joe
 
-[[Demon Armor]] (Red Dragon) - Brian
+[[Dragon Armor]] (Red Dragon) - Brian
 	Cursed for disadvantage on everything on red dragon, Cant be removed
 
 [[Sword of Answering]] -Last Quip- Brian
 
-[[Driftglobe]], [[quaal, feather token]] - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, [[Nolzur's Marvelous Pigments]] 2 Pots
+[[Driftglobe]], [[Quaal's Feather Token]] - Stops a vessel as though a anchor and does not undo its effect for 24hrs, Immovable rod, [[Nolzur's Marvelous Pigments]] 2 Pots
 
 These items are from [[Magister]]'s dad's hoard
 
