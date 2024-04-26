@@ -34,9 +34,12 @@
             "id": "eab568e0efc77c0b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
+                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
+                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Nolzur's Marvelous Pigments.md"
+                "file": "Magic Items/Spell Scroll - Storm Sphere.md"
               }
             }
           },
@@ -186,6 +189,20 @@
   },
   "active": "eab568e0efc77c0b",
   "lastOpenFiles": [
+    "Magic Items/Ring of Regeneration.md",
+    "Magic Items/Spell Scroll - Storm Sphere.md",
+    "Magic Items/Quaal's Feather Token.md",
+    "Magic Items/Oathbow.md",
+    "Magic Items/Nolzur's Marvelous Pigments.md",
+    "Magic Items/Driftglobe.md",
+    "Magic Items/Fake Bag of Holding.md",
+    "Magic Items/Dragon Armor.md",
+    "Magic Items/Demon Armor.md",
+    "Magic Items/Sword of Answering.md",
+    "Magic Items/quaal, feather token.md",
+    "Magic Items/Talisman of Pure Good.md",
+    "Magic Items/TBT Sword.md",
+    "Magic Items/TBT.md",
     "Sessions Raw/Session 06.md",
     "NPC/Ysera.md",
     "NPC/naranjeeb.md",
@@ -199,21 +216,7 @@
     "Veysl1/Spells/Minor Illusion.md",
     "Veysl1/Spells",
     "Veysl1/Spells.md",
-    "Veysl1/Sessions Raw/Session 04.md",
-    "Veysl1/Sessions Raw/Session 10.md",
-    "Veysl1/Sessions Raw/Session 09.md",
-    "Veysl1/Sessions Raw/Session 08.md",
-    "Veysl1/Sessions Raw/Session 07.md",
-    "Veysl1/Sessions Raw/Session 06.md",
-    "Veysl1/Sessions Raw/Session 05.md",
-    "Veysl1/Sessions Raw/Session 03.md",
-    "Veysl1/Sessions Raw/Session 02.md",
-    "Veysl1/Sessions Raw/Session 01.md",
     "Veysl1/Sessions Raw",
-    "Veysl1/PCS/Vesyl.md",
-    "Veysl1/PCS/Travis.md",
-    "Veysl1/PCS/Joe.md",
-    "Veysl1/PCS/Jackson.md",
     "Veysl1/PCS",
     "Veysl1/Nobile Family",
     "Veysl1/NPC",

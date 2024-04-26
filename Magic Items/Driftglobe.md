@@ -1,4 +1,4 @@
-Currently held by [[Vesyl]]
+Currently held by [[Brian]]
 
 [Driftglobe](https://www.dndbeyond.com/magic-items/5349-driftglobe)
 

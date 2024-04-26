@@ -4,7 +4,7 @@ The same as demon armor but for dragons
 
 [Dragon Armor](https://www.dndbeyond.com/magic-items/4619-demon-armor)
 
-While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
+While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Draconic. In addition, the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8. Disadvantage when talking to a Red Dragon.
 
 _**Curse.**_ Once you don this cursed armor, you can’t doff it unless you are targeted by the [remove curse](https://www.dndbeyond.com/spells/remove-curse) spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
 
