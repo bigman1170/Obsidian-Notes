@@ -2,4 +2,6 @@
 
 [[Magister]] Lists people in the kalafate. [[Magister]] wants to kill all the people on the list. Winduke of ahas 
 
+Talked about possible taking a trip to hell to find out about the deals that these people made with the devils. 
+
 Key to the city is broken into 7 parts - Ancient security system 
