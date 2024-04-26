@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "46fb827b26b2c7f4",
+            "id": "eab568e0efc77c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Nolzur's Marvelous Pigments.md",
+                "file": "Magic Items/Talisman of Pure Good.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "eab568e0efc77c0b",
+            "id": "990c2ae10d9760d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
+                "file": "Sessions Raw/Session 07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
+                "file": "Sessions Raw/Session 07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Spell Scroll - Storm Sphere.md",
+                "file": "Sessions Raw/Session 07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Spell Scroll - Storm Sphere.md"
+                "file": "Sessions Raw/Session 07.md"
               }
             }
           },
@@ -187,27 +187,28 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "eab568e0efc77c0b",
+  "active": "990c2ae10d9760d3",
   "lastOpenFiles": [
-    "Magic Items/Ring of Regeneration.md",
+    "Sessions Raw/Session 06.md",
+    "Sessions Raw/Session 05.md",
+    "Magic Items/Talisman of Pure Good.md",
+    "Magic Items/TBT Sword.md",
+    "Magic Items/Nolzur's Marvelous Pigments.md",
+    "Magic Items/Staff of Swarming Insects.md",
+    "Magic Items/Sword of Answering.md",
     "Magic Items/Spell Scroll - Storm Sphere.md",
+    "Magic Items/Ring of Regeneration.md",
     "Magic Items/Quaal's Feather Token.md",
     "Magic Items/Oathbow.md",
-    "Magic Items/Nolzur's Marvelous Pigments.md",
     "Magic Items/Driftglobe.md",
     "Magic Items/Fake Bag of Holding.md",
     "Magic Items/Dragon Armor.md",
     "Magic Items/Demon Armor.md",
-    "Magic Items/Sword of Answering.md",
     "Magic Items/quaal, feather token.md",
-    "Magic Items/Talisman of Pure Good.md",
-    "Magic Items/TBT Sword.md",
     "Magic Items/TBT.md",
-    "Sessions Raw/Session 06.md",
     "NPC/Ysera.md",
     "NPC/naranjeeb.md",
     "NPC/Buer.md",
-    "Sessions Raw/Session 05.md",
     "Rids House.md",
     "Sessions Raw/Session 07.md",
     "Sessions Raw/Session 04.md",
@@ -215,7 +216,6 @@
     "Sessions Raw/Session 03.md",
     "Veysl1/Spells/Minor Illusion.md",
     "Veysl1/Spells",
-    "Veysl1/Spells.md",
     "Veysl1/Sessions Raw",
     "Veysl1/PCS",
     "Veysl1/Nobile Family",
