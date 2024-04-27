@@ -21,4 +21,4 @@ The keys were given to a couple family's the [[Nzhet'tia]] [[Jalkarin]] [[Dow]] 
 The Rat squirrel is going to teleport us to a Library in old town
 
 We appear in the front section of the Library I am from and start fighting people from the alkarib
-
+Fight the guy with the Scorpion hand
