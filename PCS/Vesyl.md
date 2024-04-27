@@ -1,4 +1,6 @@
 
+Library in Old Town
+
 A glint of light flashes into view revealing the etched letters V E S Y L into what appears to be a metallic plate. The camera pans out revealing a humanoid shaped head made of metal starring off at an object out of focus. The ramblings of an old man can be heard in the distance followed by a shout then a loud thud as we see a book fly into view crashing into the automaton. A flash of light blue light streaks across its dull lifeless eyes. The object comes into focus and a golden donut sized ring with a sea green spherical gem illuminated with an almost electric like spark of light blue light fades from it. The rings open up into a gyroscope of bands with further inscriptions on them before collapsing back down matching the fading light. 
 
 Sentience. 
