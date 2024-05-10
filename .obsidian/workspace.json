@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "02618d2b1bc71223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions Raw/Session 08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions Raw/Session 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sessions Raw/Session 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sessions Raw/Session 08.md"
+              }
             }
           },
           {
@@ -156,12 +174,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "33478d289db90134",
+  "active": "02618d2b1bc71223",
   "lastOpenFiles": [
     "Sessions Raw/Session 07.md",
+    "Sessions Raw/Session 08.md",
+    "Sessions Raw/Session 09.md",
+    "Sessions Raw/Session 04.md",
+    "Sessions Raw/Session 05.md",
     "Sessions Raw/Session 06.md",
     "Magic Items/Staff of Swarming Insects.md",
-    "Sessions Raw/Session 05.md",
     "PCS/Vesyl.md",
     "Nobile Family/Jalkarin.md",
     "Sessions Raw/Session 01.md",
@@ -181,9 +202,6 @@
     "Magic Items/Ring of Regeneration.md",
     "Magic Items/Quaal's Feather Token.md",
     "Magic Items/Oathbow.md",
-    "Magic Items/Driftglobe.md",
-    "Magic Items/Fake Bag of Holding.md",
-    "Magic Items/Dragon Armor.md",
     "Veysl1/Spells",
     "Veysl1/Sessions Raw",
     "Veysl1/PCS",
