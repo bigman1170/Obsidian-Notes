@@ -16,22 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d95949fcb3f7d8cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions Raw/Session 08.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions Raw/Session 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions Raw/Session 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessions Raw/Session 08.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,25 +156,27 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d95949fcb3f7d8cd",
+  "active": "33478d289db90134",
   "lastOpenFiles": [
-    "Sessions Raw/Session 07.md",
     "Sessions Raw/Session 08.md",
+    "Sessions Raw/Session 09.md",
+    "Sessions Raw/Session 07.md",
+    "Sessions Raw/Session 01.md",
+    "Sessions Raw/Session 10.md",
+    "Sessions Raw/Session 06.md",
+    "Sessions Raw/Session 02.md",
+    "PCS/Vesyl.md",
     "Nobile Family/Silver Turbans.md",
     "Nobile Family/Grand Kalif.md",
-    "Sessions Raw/Session 06.md",
     "Nobile Family/House Delmont.md",
     "Nobile Family.md",
     "House Delmont.md",
     "Sessions Raw/Session 05.md",
     "PCS/Jackson.md",
     "Campain.md",
-    "Sessions Raw/Session 09.md",
     "Sessions Raw/Session 04.md",
     "Magic Items/Staff of Swarming Insects.md",
-    "PCS/Vesyl.md",
     "Nobile Family/Jalkarin.md",
-    "Sessions Raw/Session 01.md",
     "Silver Turbins.md",
     "Nobile Family/Dow.md",
     "Nobile Family/Merchant Council.md",
@@ -200,8 +184,6 @@
     "Nobile Family/Verenk.md",
     "Merchant Council.md",
     "NPC/naranjeeb.md",
-    "Nobile Family/Maridgian.md",
-    "Magic Items/Sword of Answering.md",
     "Veysl1/Spells",
     "Veysl1/Sessions Raw",
     "Veysl1/PCS",
