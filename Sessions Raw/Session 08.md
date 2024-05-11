@@ -15,4 +15,4 @@ Brian Cures this curse. And eases his mind.
 
 The old man ha all his old notes and that tells about some chambers that were made, he has had mind alternating spells. He kept all his notes in his field office, which is protected with an arcane lock and hidden behind some illusion spells. He starts digging through the private library and finds some old maps that will help us find the location of the field office. Deep under Zesbul way under the slums. The last three levels here is where the vault might be. The little rat starts casting spells under his breath and appears to get a message. He gave us all his maps for the journey.
 
-[[Jackson]] leads the way. Going the fast way, we see the damage done by the riots. As [[Jackson]] goes outside, he sees a small child take off around a corner, and we start chasing him. Joe [[Dimension Door]] 
+[[Jackson]] leads the way. Going the fast way, we see the damage done by the riots. As [[Jackson]] goes outside, he sees a small child take off around a corner, and we start chasing him. Joe [[Dimension Door]], The kid then tries to run into a crowd of people fighting and gets knocked out.
