@@ -5,38 +5,38 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:locations",
+      "query": "path:\"locations\"",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:PCS ",
+      "query": "path:\"PCS\"",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:\"Sessions Raw\"  ",
+      "query": "path:\"Sessions Raw\"",
       "color": {
         "a": 1,
         "rgb": 4638900
       }
     },
     {
-      "query": "path:campain",
+      "query": "path:\"campain\"",
       "color": {
         "a": 1,
         "rgb": 4638900
       }
     },
     {
-      "query": "path:NPC  ",
+      "query": "path:\"NPC\"",
       "color": {
         "a": 1,
         "rgb": 6062550
@@ -50,17 +50,24 @@
       }
     },
     {
-      "query": "path:\"Nobile Family\"  ",
+      "query": "path:\"Nobile Family\"",
       "color": {
         "a": 1,
         "rgb": 12529601
       }
     },
     {
-      "query": "path:Spells  ",
+      "query": "path:\"Spells\"",
       "color": {
         "a": 1,
         "rgb": 9676759
+      }
+    },
+    {
+      "query": "path:\"Organizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 65,
-  "scale": 0.05199974765043889,
-  "close": true
+  "scale": 1.0881422643089058,
+  "close": false
 }

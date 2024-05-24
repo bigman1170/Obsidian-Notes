@@ -14,7 +14,7 @@ She had here casters ward off the room we were in before we talk more - did not 
 She started talking about slavery and how she and this group does not like and are against
 monocle man called out the lady of the house as not Nzhet'tia and then she reveals' herself to be an olive-scaled lady with scales and has serpent like eyes and boney cheeks, She is frail and lanky
 
--[[Malic]]- is her name, she wants to change how this system is run and fix it - Ties to the alcharo
+-[[Malic]]- is her name, she wants to change how this system is run and fix it - Ties to the [[Aleaqrab]]
 
 The slums are run down not in the terms of food and water but in the buildings and structures
 

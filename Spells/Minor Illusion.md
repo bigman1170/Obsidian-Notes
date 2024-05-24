@@ -1,5 +1,3 @@
-# Minor Illusion
-
 cantrip illusion
 
 - Casting Time: 1 action

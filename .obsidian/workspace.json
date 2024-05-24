@@ -16,8 +16,35 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "70ed692d8ec292dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Gate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed55fde908a6ad41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spells/Minor Illusion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spells/Minor Illusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spells/Minor Illusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spells/Minor Illusion.md"
+              }
             }
           },
           {
@@ -156,34 +187,35 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "33478d289db90134",
+  "active": "ed55fde908a6ad41",
   "lastOpenFiles": [
+    "Spells/Gate.md",
+    "Spells/Minor Illusion.md",
+    "Spells/Dimension Door.md",
+    "Organizations/Aleaqrab.md",
+    "Organizations.md",
     "Sessions Raw/Session 08.md",
+    "Organizations",
     "Sessions Raw/Session 09.md",
     "Sessions Raw/Session 07.md",
-    "Sessions Raw/Session 01.md",
-    "Sessions Raw/Session 10.md",
     "Sessions Raw/Session 06.md",
+    "Sessions Raw/Session 05.md",
+    "Sessions Raw/Session 04.md",
+    "Sessions Raw/Session 03.md",
     "Sessions Raw/Session 02.md",
+    "Sessions Raw/Session 01.md",
+    "NPC/Nzhet'tia.md",
+    "NPC/Malic.md",
+    "NPC/Magister.md",
+    "Sessions Raw/Session 10.md",
     "PCS/Vesyl.md",
     "Nobile Family/Silver Turbans.md",
     "Nobile Family/Grand Kalif.md",
     "Nobile Family/House Delmont.md",
     "Nobile Family.md",
     "House Delmont.md",
-    "Sessions Raw/Session 05.md",
     "PCS/Jackson.md",
     "Campain.md",
-    "Sessions Raw/Session 04.md",
-    "Magic Items/Staff of Swarming Insects.md",
-    "Nobile Family/Jalkarin.md",
-    "Silver Turbins.md",
-    "Nobile Family/Dow.md",
-    "Nobile Family/Merchant Council.md",
-    "NPC/Marahadun.md",
-    "Nobile Family/Verenk.md",
-    "Merchant Council.md",
-    "NPC/naranjeeb.md",
     "Veysl1/Spells",
     "Veysl1/Sessions Raw",
     "Veysl1/PCS",
@@ -192,7 +224,6 @@
     "Veysl1/Magic Items",
     "Veysl1/Locations",
     "Veysl1",
-    "Spells",
-    "Nobile Family"
+    "Spells"
   ]
 }
